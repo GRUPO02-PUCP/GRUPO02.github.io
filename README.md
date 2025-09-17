@@ -617,37 +617,42 @@ Inicio
 Caso de negocio
 
 
-<img width="1027" height="585" alt="image" src="https://github.com/user-attachments/assets/69564b5c-28da-4c88-818a-34d1c808bee2" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/69564b5c-28da-4c88-818a-34d1c808bee2" />
 
 
 Indicadores
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/5d88f770-b512-42aa-b041-f1974b88e90a" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/3948533e-a924-4c05-a896-5e3c8a60af45" />
 
 
 Dashboard
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9659b4dd-8686-4c29-bc95-3a85693eac2c" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/17cd5e27-21e8-464c-b110-e7004bc9c00c" />
 
 
 Reporte
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/8955bc1b-8d50-4c65-9704-350f0cb19f4e" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/90238a31-4d35-45f9-b1bc-2f4e47af0e28" />
 
 
 Informe 1
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1ebe5e45-1da8-42bb-a84a-9d98b484d5e0" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/c7de0da6-e1e0-4ec5-aedc-22676dbe8aa2" />
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9e14ce79-5d16-4286-b497-c75c77d7226d" />
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/2073584b-77fd-426c-9121-b199f4520d97" />
 
 
 Informe 2
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/75cb6cf3-2158-4f39-88bb-b63ffc656ccc" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/7b093896-e35f-46ac-80a6-5a502a492558" />
+
 
 
 Informe 3
