@@ -1,4 +1,3 @@
-<div style="text-align: left">
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c15feeb1-2707-40d6-8261-35b7fa6484be" /> Grupo AJE  
 ### Building Cloud Business Applications for Grupo AJE
 
@@ -845,7 +844,7 @@ Con esta solución, Grupo AJE fortalece su capacidad para:
 
 Más que un sistema tecnológico, representa una plataforma de inteligencia empresarial que potencia la competitividad y acompaña el crecimiento de la compañía en el corto, mediano y largo plazo.
 
-</div>
+
 
 
 
