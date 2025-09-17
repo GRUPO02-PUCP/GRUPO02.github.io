@@ -840,19 +840,3 @@ Más que un sistema tecnológico, representa una plataforma de inteligencia empr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
