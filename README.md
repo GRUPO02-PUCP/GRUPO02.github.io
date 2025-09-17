@@ -137,15 +137,12 @@ Para asegurar una correcta implementación de la funcionalidad en Power Apps, re
   <title>Descargar diagrama de flujo</title>
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; margin-top: 100px;">
-  <h1>Proyecto Grupo AJE</h1>
-  <p>Haz clic en el siguiente botón para descargar el diagrama de flujo:</p>
-  <a href="Diagrama%20de%20flujo.drawio" download>
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">
-      📥 Descargar Diagrama de Flujo
-    </button>
+  <a href="Diagrama%20de%20flujov2.png" download>
+    📥 Descargar diagrama de flujo (.png)
   </a>
 </body>
 </html>
+
 
 ### Pantalla de Inicio / Bienvenida
 
