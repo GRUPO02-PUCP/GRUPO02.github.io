@@ -729,19 +729,54 @@ Informe 7
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/79db3797-147f-4acc-864e-a832dfed9f17" />
 
 
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9216c58c-6335-4360-ac92-4f1a7430b7bc" />
+
+
+**Drill through**
+
+<img width="1021" height="550" alt="image" src="https://github.com/user-attachments/assets/71859aa8-f46b-4693-8916-2b8df12a275f" />
+
 
 Informe 8
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e26d2558-4fe1-4ab9-9725-2534ff27e27e" />
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/78bc0f2a-d6a5-475d-aea0-b87b7ae1c169" />
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/b4c5f318-d286-4ebb-bd08-74752528c83f" />
+
+
+**Drill through**
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/d14bce8d-d529-49d3-a6ea-38b61ba88076" />
 
 
 Informe 9
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ecbc44c4-c654-4cff-9e7c-710e3b02bb87" />
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ad0b2feb-3c6a-4c30-8dc9-feebfdbeb1e6" />
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/4329b686-1517-4ab8-bfee-13e41ef82ea5" />
+
+
+**Drill through**
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a1206ab7-652c-4083-9942-61277b0688a1" />
+
 
 
 Informe 10
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/d211a3d1-2cde-49c6-be42-e7f3dddfaffa" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9c7a0b37-0e3a-4f45-86d0-b4c08d070e5e" />
+
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/19394fc6-ad6a-46c0-b625-6444faf8d23d" />
+
+
+**Drill through**
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/36ac8fc7-dd7a-495d-a182-023d493e8fe0" />
 
 
 ---
