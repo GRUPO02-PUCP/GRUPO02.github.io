@@ -433,27 +433,27 @@ El flujo completo se ejecuta de forma segura, programada y sin intervención man
 
 🕕 El pipeline `pl_tablas` corre todos los días a las 17:00 p.m., garantizando que los reportes y tableros en Power BI cuenten siempre con información actualizada.
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/b7fbce48-cfee-425b-9a6c-bb65f3517c98" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b7fbce48-cfee-425b-9a6c-bb65f3517c98" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/3c665aaa-2b1e-4553-b766-ee12bce96b35" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3c665aaa-2b1e-4553-b766-ee12bce96b35" />
 
 Notebook: Envio1Final
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ac5b5d57-cd41-465e-9a27-f3c69014f0d9" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/ac5b5d57-cd41-465e-9a27-f3c69014f0d9" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/df8f1c27-80bd-497b-90cd-88807f176ef9" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/df8f1c27-80bd-497b-90cd-88807f176ef9" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1894d7c5-fce3-42ae-9cce-d8edfe6db07d" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/1894d7c5-fce3-42ae-9cce-d8edfe6db07d" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/df7a46a3-02ce-43ec-ae17-d7f7d2a324ed" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/df7a46a3-02ce-43ec-ae17-d7f7d2a324ed" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ac63bfca-9fb9-446b-9c31-6fc6e2d39721" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/ac63bfca-9fb9-446b-9c31-6fc6e2d39721" />
 
 Correo electrónico de notificación del éxito del pipeline
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/2f951b64-acb1-4933-a13d-0e4566b127d6" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2f951b64-acb1-4933-a13d-0e4566b127d6" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/63f19f4f-82ad-4807-a9d5-ed1de5eb04e3" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/63f19f4f-82ad-4807-a9d5-ed1de5eb04e3" />
 
 ---
 
