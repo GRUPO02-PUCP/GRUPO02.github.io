@@ -662,6 +662,7 @@ Informe 2
 
 
 **Drill through**
+
 <img width="1012" height="586" alt="image" src="https://github.com/user-attachments/assets/966676c2-48b7-4a09-8c64-5615ea028ddd" />
 
 
@@ -675,6 +676,7 @@ Informe 3
 
 
 **Drill through**
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/79ec80dd-ea69-4cae-9cc4-d1fdea88d803" />
 
 
@@ -688,6 +690,7 @@ Informe 4
 
 
 **Drill through**
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/cf00944d-6c6f-4006-baca-34626f26402a" />
 
 
@@ -701,6 +704,7 @@ Informe 5
 
 
 **Drill through**
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e507098c-0b80-49c1-8f73-d5a6e048f79b" />
 
 
@@ -715,13 +719,15 @@ Informe 6
 
 
 **Drill through**
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a4e579cb-9d11-44c3-96c6-6857961ae982" />
 
 
 Informe 7
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/817cbc20-10b1-4533-a73e-e5321fcebd01" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/79db3797-147f-4acc-864e-a832dfed9f17" />
+
 
 
 Informe 8
