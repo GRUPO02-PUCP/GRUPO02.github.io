@@ -183,7 +183,7 @@ Permite al usuario registrar un nuevo pedido de cliente, seleccionando productos
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f3adb233-a743-4c63-a352-360970e185ce" />
 
-<img width="1020" height="550" alt="image" src="https://github.com/user-attachments/assets/bc27b51f-ea42-4583-b639-acd3292e7d7a" />
+<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/bc27b51f-ea42-4583-b639-acd3292e7d7a" />
 
 ## 🛒 Pantalla de Producto
 
@@ -415,27 +415,27 @@ El flujo completo se ejecuta de forma segura, programada y sin intervención man
 
 🕕 El pipeline `pl_tablas` corre todos los días a las 17:00 p.m., garantizando que los reportes y tableros en Power BI cuenten siempre con información actualizada.
 
-<img width="2892" height="1358" alt="image" src="https://github.com/user-attachments/assets/b7fbce48-cfee-425b-9a6c-bb65f3517c98" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/b7fbce48-cfee-425b-9a6c-bb65f3517c98" />
 
-<img width="2866" height="1366" alt="image" src="https://github.com/user-attachments/assets/3c665aaa-2b1e-4553-b766-ee12bce96b35" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/3c665aaa-2b1e-4553-b766-ee12bce96b35" />
 
 Notebook: Envio1Final
 
-<img width="1429" height="683" alt="image" src="https://github.com/user-attachments/assets/ac5b5d57-cd41-465e-9a27-f3c69014f0d9" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ac5b5d57-cd41-465e-9a27-f3c69014f0d9" />
 
-<img width="1426" height="680" alt="image" src="https://github.com/user-attachments/assets/df8f1c27-80bd-497b-90cd-88807f176ef9" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/df8f1c27-80bd-497b-90cd-88807f176ef9" />
 
-<img width="1446" height="681" alt="image" src="https://github.com/user-attachments/assets/1894d7c5-fce3-42ae-9cce-d8edfe6db07d" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1894d7c5-fce3-42ae-9cce-d8edfe6db07d" />
 
-<img width="1428" height="679" alt="image" src="https://github.com/user-attachments/assets/df7a46a3-02ce-43ec-ae17-d7f7d2a324ed" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/df7a46a3-02ce-43ec-ae17-d7f7d2a324ed" />
 
-<img width="1424" height="673" alt="image" src="https://github.com/user-attachments/assets/ac63bfca-9fb9-446b-9c31-6fc6e2d39721" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ac63bfca-9fb9-446b-9c31-6fc6e2d39721" />
 
 Correo electrónico de notificación del éxito del pipeline
 
-<img width="1340" height="597" alt="image" src="https://github.com/user-attachments/assets/2f951b64-acb1-4933-a13d-0e4566b127d6" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/2f951b64-acb1-4933-a13d-0e4566b127d6" />
 
-<img width="1450" height="672" alt="image" src="https://github.com/user-attachments/assets/63f19f4f-82ad-4807-a9d5-ed1de5eb04e3" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/63f19f4f-82ad-4807-a9d5-ed1de5eb04e3" />
 
 ---
 
@@ -504,27 +504,27 @@ Para complementar esta capa, se han desarrollado flujos en Power Automate que pe
 
 ### 📩 Enviar el Informe Mensual de KPI 2025 a responsables de negocio.
 
-<img width="1435" height="681" alt="image" src="https://github.com/user-attachments/assets/ddcd6894-acbe-448a-85a2-3d176263b09d" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ddcd6894-acbe-448a-85a2-3d176263b09d" />
 
 NotificaciónCorreo
 
-<img width="1430" height="645" alt="image" src="https://github.com/user-attachments/assets/a5192708-f64a-412a-8a3d-5024e74afeff" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a5192708-f64a-412a-8a3d-5024e74afeff" />
 
 ### 📩 Enviar el informe de Ventas Abril y Mayo 2025 – Marca Sporade a responsable de negocio.
 
-<img width="1439" height="684" alt="image" src="https://github.com/user-attachments/assets/77b55da5-4cce-47cd-afc5-31304a5652bf" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/77b55da5-4cce-47cd-afc5-31304a5652bf" />
 
 NotificaciónCorreo
 
-<img width="1429" height="688" alt="image" src="https://github.com/user-attachments/assets/96d9c977-ce23-4e1a-9245-a1e91a4abfb5" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/96d9c977-ce23-4e1a-9245-a1e91a4abfb5" />
 
 ### 📩 Enviar Informe de Productos Menos Vendidos - Abril y Mayo 2025 a responsable de negocio
 
-<img width="1450" height="689" alt="image" src="https://github.com/user-attachments/assets/f386129c-0919-4359-9566-d2e98eb38121" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f386129c-0919-4359-9566-d2e98eb38121" />
 
 NotificaciónCorreo
 
-<img width="1424" height="686" alt="image" src="https://github.com/user-attachments/assets/72b5628e-e618-4935-a3e4-11366ee90922" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/72b5628e-e618-4935-a3e4-11366ee90922" />
 
 ---
 
@@ -546,7 +546,7 @@ NotificaciónCorreo
 
 ## 🖥️ Vista en Microsoft Fabric
 
-<img width="1439" height="676" alt="image" src="https://github.com/user-attachments/assets/9740799b-8681-4b44-a951-c0bfdde044c0" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9740799b-8681-4b44-a951-c0bfdde044c0" />
 
 ---
 
