@@ -1,4 +1,4 @@
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c15feeb1-2707-40d6-8261-35b7fa6484be" /> Grupo AJE  
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c15feeb1-2707-40d6-8261-35b7fa6484be" /> Grupo AJE  
 ### Building Cloud Business Applications for Grupo AJE
 
 ---
