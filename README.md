@@ -126,7 +126,9 @@ La Base de datos en la nube donde se almacenan los datos procesados desde múlti
 
 ---
 
-# 🧩 Application Layer – Capa de Aplicación  
+# 🧩 Application Layer – Capa de Aplicación 
+Para asegurar una correcta implementación de la funcionalidad en Power Apps, realizamos previamente diagramas de flujo que describen el proceso paso a paso. Esto permitió identificar entradas, salidas, validaciones y puntos críticos del flujo, garantizando una construcción más clara, ordenada y alineada con los requerimientos del usuario.
+
 ### Pantalla de Inicio / Bienvenida
 
 ### 🎯 Propósito
