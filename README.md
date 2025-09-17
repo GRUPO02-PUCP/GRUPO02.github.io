@@ -643,7 +643,11 @@ Informe 1
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/c7de0da6-e1e0-4ec5-aedc-22676dbe8aa2" />
 
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9e14ce79-5d16-4286-b497-c75c77d7226d" />
+
+
+**Drill through**
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/2073584b-77fd-426c-9121-b199f4520d97" />
 
@@ -654,29 +658,64 @@ Informe 2
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/7b093896-e35f-46ac-80a6-5a502a492558" />
 
 
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1b3099c5-cfbe-45bb-b261-52a07a3d28b0" />
+
+
+**Drill through**
+<img width="1012" height="586" alt="image" src="https://github.com/user-attachments/assets/966676c2-48b7-4a09-8c64-5615ea028ddd" />
+
 
 Informe 3
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/c28f025d-1e98-426d-8ce5-c31e64751951" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e6d7cc68-33d5-4a19-8d7f-d843522d5bbb" />
+
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/652809d1-09a5-44e2-8fd0-8ea3463c5c36" />
+
+
+**Drill through**
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/79ec80dd-ea69-4cae-9cc4-d1fdea88d803" />
 
 
 Informe 4
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1b0ef139-d9f7-4449-b6cb-29e6111f5583" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/aea20482-0850-4ffc-9239-3310eca06da3" />
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a099dbf7-d352-4bee-832f-239fe2ab38da" />
+
+
+**Drill through**
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/cf00944d-6c6f-4006-baca-34626f26402a" />
 
 
 Informe 5
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/53a15edb-39f5-4b13-a1fa-cd5c43eb18cc" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f598da47-0295-49d2-b391-5a0f7b1102f9" />
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a4de65c1-da8a-4e7a-8c9f-a4bb94f4823a" />
+
+
+**Drill through**
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e507098c-0b80-49c1-8f73-d5a6e048f79b" />
+
 
 
 Informe 6
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ec5c31a6-8399-4df3-a688-de263ee35fff" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e9928fe0-8277-49cb-9f36-ec8c0ad19fa6" />
+
+
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/6d1157c5-cb16-421d-9dbf-2e7d00c96ad2" />
+
+
+**Drill through**
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a4e579cb-9d11-44c3-96c6-6857961ae982" />
 
 
 Informe 7
