@@ -129,8 +129,23 @@ La Base de datos en la nube donde se almacenan los datos procesados desde múlti
 # 🧩 Application Layer – Capa de Aplicación 
 
 Para asegurar una correcta implementación de la funcionalidad en Power Apps, realizamos previamente diagramas de flujo que describen el proceso paso a paso. Esto permitió identificar entradas, salidas, validaciones y puntos críticos del flujo, garantizando una construcción más clara, ordenada y alineada con los requerimientos del usuario. 
-**https://GRUPO02.github.io/Diagrama%20de%20flujo.drawio**
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Descargar diagrama de flujo</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; margin-top: 100px;">
+  <h1>Proyecto Grupo AJE</h1>
+  <p>Haz clic en el siguiente botón para descargar el diagrama de flujo:</p>
+  <a href="Diagrama%20de%20flujo.drawio" download>
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">
+      📥 Descargar Diagrama de Flujo
+    </button>
+  </a>
+</body>
+</html>
 
 ### Pantalla de Inicio / Bienvenida
 
