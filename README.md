@@ -183,7 +183,7 @@ Permite al usuario registrar un nuevo pedido de cliente, seleccionando productos
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f3adb233-a743-4c63-a352-360970e185ce" />
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/bc27b51f-ea42-4583-b639-acd3292e7d7a" />
+<img width="1020" height="550" alt="image" src="https://github.com/user-attachments/assets/bc27b51f-ea42-4583-b639-acd3292e7d7a" />
 
 ## 🛒 Pantalla de Producto
 
@@ -644,6 +644,7 @@ Informe 1
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/c7de0da6-e1e0-4ec5-aedc-22676dbe8aa2" />
 
 
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9e14ce79-5d16-4286-b497-c75c77d7226d" />
 
 
@@ -656,6 +657,7 @@ Informe 2
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/7b093896-e35f-46ac-80a6-5a502a492558" />
+
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/1b3099c5-cfbe-45bb-b261-52a07a3d28b0" />
@@ -672,6 +674,7 @@ Informe 3
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e6d7cc68-33d5-4a19-8d7f-d843522d5bbb" />
 
 
+
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/652809d1-09a5-44e2-8fd0-8ea3463c5c36" />
 
 
@@ -686,6 +689,7 @@ Informe 4
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/aea20482-0850-4ffc-9239-3310eca06da3" />
 
 
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a099dbf7-d352-4bee-832f-239fe2ab38da" />
 
 
@@ -698,6 +702,7 @@ Informe 5
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f598da47-0295-49d2-b391-5a0f7b1102f9" />
+
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a4de65c1-da8a-4e7a-8c9f-a4bb94f4823a" />
@@ -715,6 +720,7 @@ Informe 6
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/e9928fe0-8277-49cb-9f36-ec8c0ad19fa6" />
 
 
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/6d1157c5-cb16-421d-9dbf-2e7d00c96ad2" />
 
 
@@ -727,6 +733,7 @@ Informe 7
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/79db3797-147f-4acc-864e-a832dfed9f17" />
+
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9216c58c-6335-4360-ac92-4f1a7430b7bc" />
@@ -742,6 +749,7 @@ Informe 8
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/78bc0f2a-d6a5-475d-aea0-b87b7ae1c169" />
 
 
+
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/b4c5f318-d286-4ebb-bd08-74752528c83f" />
 
 
@@ -753,6 +761,7 @@ Informe 8
 Informe 9
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ad0b2feb-3c6a-4c30-8dc9-feebfdbeb1e6" />
+
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/4329b686-1517-4ab8-bfee-13e41ef82ea5" />
@@ -768,6 +777,7 @@ Informe 10
 
 
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/9c7a0b37-0e3a-4f45-86d0-b4c08d070e5e" />
+
 
 
 
