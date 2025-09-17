@@ -509,27 +509,27 @@ Para complementar esta capa, se han desarrollado flujos en Power Automate que pe
 
 ### 📩 Enviar el Informe Mensual de KPI 2025 a responsables de negocio.
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ddcd6894-acbe-448a-85a2-3d176263b09d" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/ddcd6894-acbe-448a-85a2-3d176263b09d" />
 
 NotificaciónCorreo
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/a5192708-f64a-412a-8a3d-5024e74afeff" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/a5192708-f64a-412a-8a3d-5024e74afeff" />
 
 ### 📩 Enviar el informe de Ventas Abril y Mayo 2025 – Marca Sporade a responsable de negocio.
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/77b55da5-4cce-47cd-afc5-31304a5652bf" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/77b55da5-4cce-47cd-afc5-31304a5652bf" />
 
 NotificaciónCorreo
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/96d9c977-ce23-4e1a-9245-a1e91a4abfb5" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/96d9c977-ce23-4e1a-9245-a1e91a4abfb5" />
 
 ### 📩 Enviar Informe de Productos Menos Vendidos - Abril y Mayo 2025 a responsable de negocio
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/f386129c-0919-4359-9566-d2e98eb38121" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/f386129c-0919-4359-9566-d2e98eb38121" />
 
 NotificaciónCorreo
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/72b5628e-e618-4935-a3e4-11366ee90922" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/72b5628e-e618-4935-a3e4-11366ee90922" />
 
 ---
 
