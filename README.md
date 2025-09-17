@@ -611,13 +611,13 @@ La capa de presentación, construida sobre Power BI, es el punto de acceso para 
 Inicio
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/cee73324-56a3-4eb8-868d-7e840fd0d24e" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/ddebd14f-7a8d-497f-8802-cc1214ab0fed" />
 
 
 Caso de negocio
 
 
-<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/fdd8510f-7d9a-481b-8d14-9645a3375253" />
+<img width="1027" height="585" alt="image" src="https://github.com/user-attachments/assets/69564b5c-28da-4c88-818a-34d1c808bee2" />
 
 
 Indicadores
