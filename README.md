@@ -134,7 +134,6 @@ Para asegurar una correcta implementación de la funcionalidad en Power Apps, re
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Descargar diagrama de flujo</title>
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; margin-top: 100px;">
   <a href="Diagrama%20de%20flujov2.png" download>
