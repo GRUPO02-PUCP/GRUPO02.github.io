@@ -45,8 +45,6 @@ Este proyecto implementa una solución de negocio moderna utilizando herramienta
 <img width="2000" height="512" alt="image" src="https://github.com/user-attachments/assets/e5bfd148-6504-45c6-801d-1bb680f1c29e" />
 
 ---
-## 🔄 Diagrama de Flujo del Proceso
-<img src="https://raw.githubusercontent.com/GRUPO02-PUCP/GRUPO02.github.io/main/Diagrama%20de%20flujov2.png" alt="Diagrama de Flujo del Proceso" width="100%" />
 
 ### 📁 Data Sources  
 La información se origina en archivos Excel y en un sistema de escritorio con base de datos propia. Estos insumos se incorporan al ecosistema mediante procesos manuales o parcialmente automatizados.
@@ -136,6 +134,8 @@ La Base de datos en la nube donde se almacenan los datos procesados desde múlti
 
 Para asegurar una correcta implementación de la funcionalidad en Power Apps, realizamos previamente diagramas de flujo que describen el proceso paso a paso. Esto permitió identificar entradas, salidas, validaciones y puntos críticos del flujo, garantizando una construcción más clara, ordenada y alineada con los requerimientos del usuario. 
 
+## 🔄 Diagrama de Flujo del Proceso
+<img src="https://raw.githubusercontent.com/GRUPO02-PUCP/GRUPO02.github.io/main/Diagrama%20de%20flujov2.png" alt="Diagrama de Flujo del Proceso" width="100%" />
 
 ### Pantalla de Inicio / Bienvenida
 
