@@ -13,7 +13,6 @@ El diseño de esta arquitectura tiene como finalidad integrar en un único ecosi
 
 Gracias al uso de tecnologías en la nube como Azure SQL y Microsoft Fabric, el Grupo AJE contará con una solución moderna y flexible que facilita la integración de datos, potencia el análisis en profundidad y soporta la toma de decisiones en tiempo real.
 
-TablasGrupo2.xlsx
 ---
 
 ## 🎯 Objetivos Principales
