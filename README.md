@@ -128,6 +128,12 @@ La Base de datos en la nube donde se almacenan los datos procesados desde múlti
 
 <img width="1380" height="788" alt="image" src="https://github.com/user-attachments/assets/49a33939-abd3-4d5c-a686-2e499240d4b0" />
 
+## Codigo del modelo
+
+- 📊 [TablasGrupo2.xlsx](./TablasGrupo2.xlsx)  
+- 🛠️ [database_setup.py](./database_setup.py)  
+- 📋 [requeriments.txt](./requeriments.txt)  
+
 ---
 
 # 🧩 Application Layer – Capa de Aplicación 
